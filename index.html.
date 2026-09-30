@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gorące Mamuśki</title>
+
+    <style>
+        body {
+            background: #111;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        h1 {
+            font-size: 45px;
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>🔥 Gorące Mamuśki 🔥</h1>
+
+    <p>
+        gorce gotyckie mamusie
+    </p>
+
+    <p>
+        kilkajac po nizjesz zgadasz sie na lubisz gorce mamusie
+    </p>
+
+    <button>ZGADZAM SIĘ</button>
+
+</body>
+</html>
